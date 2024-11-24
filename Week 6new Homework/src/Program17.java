@@ -23,5 +23,4 @@ public class Program17 {
         m1.iMethod();
         sMethod();
     }
-
 }
