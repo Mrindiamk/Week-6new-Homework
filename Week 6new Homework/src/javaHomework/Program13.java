@@ -1,3 +1,5 @@
+package javaHomework;
+
 /*13. Write a Java program to print the area and perimeter of a rectangle.
 Test Data:
 Width = 5.6 Height = 8.5

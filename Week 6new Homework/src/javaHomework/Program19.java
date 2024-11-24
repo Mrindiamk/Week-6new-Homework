@@ -1,3 +1,5 @@
+package javaHomework;
+
 /*19. Write a Java Program using below steps.
 19.1 Declare one of your group member names as instance variable.
 19.2 Declare one of your group member names as static variable.

@@ -1,3 +1,5 @@
+package javaHomework;
+
 /*16. Write a Java Program to print as below. (All details to be stored in variable)
 
 "+------------------------+"

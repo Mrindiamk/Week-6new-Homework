@@ -1,3 +1,5 @@
+package javaHomework;
+
 import java.util.Scanner;
 
 /*7. Write a program to insert any temperature value in degree Fahrenheit and convert

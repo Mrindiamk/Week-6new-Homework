@@ -1,3 +1,5 @@
+package javaHomework;
+
 /*18. Write a Java Program using below steps.
 18.1 Declare your council name as static variables.
 18.2 Declare your house number as instance variables.

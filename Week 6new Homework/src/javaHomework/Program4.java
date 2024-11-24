@@ -1,4 +1,4 @@
-/* 4. Write a Java programme using the following steps.
+package javaHomework;/* 4. Write a Java programme using the following steps.
 4.1 Declare two instance and two static variables.
 4.2 Declare one instance method.
 4.3 Declare one static method.

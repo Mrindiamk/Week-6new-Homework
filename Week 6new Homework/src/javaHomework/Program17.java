@@ -1,3 +1,5 @@
+package javaHomework;
+
 /*17. Write a Java Program using below steps.
 17.1 Declare your city as instance variables.
 17.2 Declare your country as static variables.

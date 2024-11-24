@@ -1,3 +1,5 @@
+package javaHomework;
+
 /*20. Write a Java Program using below steps.
 20.1 Declare your Spain as static variable.
 20.2 Declare your United Kingdom as instance variable.
